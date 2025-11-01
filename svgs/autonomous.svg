@@ -2,7 +2,51 @@
 <g transform="scale(1, -1)">
 <rect x="-2100" y="-2100" width="4200" height="4200" fill="#ffffff"/>
 <rect x="-1800" y="-1800" width="3600" height="3600" fill="none" stroke="#333333" stroke-width="3"/>
-<image href="https://raw.githubusercontent.com/21919A/push_back_simple/refs/heads/main/svgs/V5RC-PushBack-H2H-TopDownHighlighted-TileColor66_71@0.1+2000px.png" x="-1850" y="-1850" width="3700" height="3700" opacity="0.25"/>
+<path d="M -1788 240 l 380 0 a 50 50 0 0 0 50 -50 l 0 -380 a 50 50 0 0 0 -50 -50 l -380 0  l 0 50 l 380 0 l 0 380 l -380 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1788 240 l -380 0 a 50 50 0 0 1 -50 -50 l 0 -380 a 50 50 0 0 1 50 -50 l 380 0  l 0 50 l -380 0 l 0 380 l 380 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<rect x="-556" y="1162" width="1112" height="76" fill="#cccc55" stroke-width="3" stroke="#000000"/>
+<rect x="-556" y="-1238" width="1112" height="76" fill="#cccc55" stroke-width="3" stroke="#000000"/>
+<path d="M 1118,1728 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1200,1728 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -164,1182 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -82,1182 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -641,582 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -559,582 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -641,500 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1392,105 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1392,23 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1392,-59 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1392,-141 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -641,-536 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -559,-618 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -641,-618 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -164,-1218 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -82,-1218 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1118,-1764 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1200,-1764 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1282,1728 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1200,1728 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 0,1182 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 82,1182 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 477,582 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 559,582 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 559,500 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1474,105 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1474,23 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1474,-59 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1474,-141 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 559,-536 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 559,-618 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 477,-618 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 0,-1218 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 82,-1218 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1282,-1764 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1200,-1764 l 0 36 l 23 23 l 36 0 l 23 -23 l  0 -36 l -23 -23 l -36 0 l -23 23 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1793,1191 a 70 70 0 0 0 140 0 a 70 70 0 0 0 -140 0 z m 20 0 a 50 50 0 0 0 100 0 a 50 50 0 0 0 -100 0 z" fill="#cccc55" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1653,1191 a 70 70 0 0 0 140 0 a 70 70 0 0 0 -140 0 z m 20 0 a 50 50 0 0 0 100 0 a 50 50 0 0 0 -100 0 z" fill="#cccc55" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1793,-1191 a 70 70 0 0 0 140 0 a 70 70 0 0 0 -140 0 z m 20 0 a 50 50 0 0 0 100 0 a 50 50 0 0 0 -100 0 z" fill="#cccc55" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1653,-1191 a 70 70 0 0 0 140 0 a 70 70 0 0 0 -140 0 z m 20 0 a 50 50 0 0 0 100 0 a 50 50 0 0 0 -100 0 z" fill="#cccc55" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<image href="./V5RC-PushBack-H2H-TopDownHighlighted-TileColor66_71@0.1+2000px.png" x="-1850" y="-1850" width="3700" height="3700" opacity="0.25"/>
 <line x1="-1800" y1="-1200" x2="1800" y2="-1200" stroke="#444444" stroke-width="3"/>
 <line x1="-1800" y1="-600" x2="1800" y2="-600" stroke="#444444" stroke-width="3"/>
 <line x1="-1800" y1="0" x2="1800" y2="0" stroke="#444444" stroke-width="3"/>
@@ -13,25 +57,24 @@
 <line x1="0" y1="-1800" x2="0" y2="1800" stroke="#444444" stroke-width="3"/>
 <line x1="600" y1="-1800" x2="600" y2="1800" stroke="#444444" stroke-width="3"/>
 <line x1="1200" y1="-1800" x2="1200" y2="1800" stroke="#444444" stroke-width="3"/>
-<g transform="translate(1500 1200)  rotate(-56)">
-<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<line x1="-75" y1="0" x2="75" y2="0" stroke="#7777cc" stroke-width="25"/>
-<line x1="0" y1="-410" x2="0" y2="410" stroke="#5555ff" stroke-width="25"/>
-<polyline points="-60,306 0,410 60,306" fill="none" stroke="#0000ff" stroke-width="25"/>
-<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#0000ff" stroke-width="25"/>
+<g transform="translate(1200 1200)  rotate(-90)">
+<rect x="-191" y="-191" width="120" height="381" fill="none" stroke="#7777cc" stroke-width="25"/>
+<rect x="70" y="-191" width="120" height="381" fill="none" stroke="#7777cc" stroke-width="25"/>
+<line x1="-71" y1="0" x2="70" y2="0" stroke="#7777cc" stroke-width="25"/>
+<line x1="0" y1="-381" x2="0" y2="381" stroke="#5555ff" stroke-width="25"/>
+<polyline points="-60,277 0,381 60,277" fill="none" stroke="#0000ff" stroke-width="25"/>
+<polyline points="-60,-485 0,-381 60,-485" fill="none" stroke="#0000ff" stroke-width="25"/>
 </g>
-<g transform="translate(1500 1200)  rotate(-56)">
-<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<line x1="-75" y1="0" x2="75" y2="0" stroke="#7777cc" stroke-width="25"/>
-<line x1="0" y1="-410" x2="0" y2="410" stroke="#5555ff" stroke-width="25"/>
-<polyline points="-60,306 0,410 60,306" fill="none" stroke="#0000ff" stroke-width="25"/>
-<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#0000ff" stroke-width="25"/>
+<g transform="translate(1250 1200)  rotate(-90)">
+<rect x="-191" y="-191" width="120" height="381" fill="none" stroke="#7777cc" stroke-width="25"/>
+<rect x="70" y="-191" width="120" height="381" fill="none" stroke="#7777cc" stroke-width="25"/>
+<line x1="-71" y1="0" x2="70" y2="0" stroke="#7777cc" stroke-width="25"/>
+<line x1="0" y1="-381" x2="0" y2="381" stroke="#5555ff" stroke-width="25"/>
+<polyline points="-60,277 0,381 60,277" fill="none" stroke="#0000ff" stroke-width="25"/>
+<polyline points="-60,-485 0,-381 60,-485" fill="none" stroke="#0000ff" stroke-width="25"/>
 </g>
-<path d="M 1500,1200 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="none" stroke="#7777cc" stroke-width="3" fill-rule="evenodd"/>
-<line x1="1462" y1="1200" x2="1537" y2="1200" stroke="#ff0000" stroke-width="25" stroke-dasharray="25,25">
-<animateTransform attributeName="transform" type="rotate" to="360 1500 1200" dur="2000ms" repeatCount="indefinite" from="0 1500 1200"/>
-</line>
+<polyline points="1200,1200 1250,1200" fill="none" stroke="#ff0000" stroke-width="25" stroke-dasharray="25,50" stroke-linejoin="round" stroke-dashoffset="0">
+<animate attributeName="stroke-dashoffset" values="75;0" dur="1000ms" repeatCount="indefinite"/>
+</polyline>
 </g>
 </svg>
