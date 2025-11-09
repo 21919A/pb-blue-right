@@ -25,8 +25,9 @@ def autonomous_function():
 
     log(("Competition", "competition"), "autonomous_begin")
 
-    robot_position.reset(Position(900, 1185))
-    reset_heading_to_aim(Position(1450, 1185), FORWARD)
+    robot_position.reset(Position(1200, 1185))
+    reset_heading_to_aim(Position(1480, 1185), FORWARD)
+
 
     matchload.set(True)
 
@@ -38,19 +39,19 @@ def autonomous_function():
 
     conveyor.spin(REVERSE, FORWARD, FORWARD)
 
-    # trigger_mover.move(Position(1460, 1185), FORWARD)
-    trigger_driver.drive(550)
+    # trigger_mover.move(Position(1480, 1185), FORWARD)
+    trigger_driver.drive(260)
 
-    wait(3000, MSEC)
+    wait(300, MSEC)
     conveyor.spin(STOP, STOP, STOP)
     flap.set(False)
 
     trigger_mover.move(Position(1200, 1200), REVERSE)
     matchload.set(False)
-    trigger_turner.turn(270, FRAME_ABSOLUTE)
+    trigger_turner.turn(180, FRAME_HEADING_RELATIVE)
 
     trigger_mover.move(Position(900, 1200), FORWARD)
-    trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
+    # trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
     conveyor.spin(REVERSE, FORWARD, FORWARD)
 
 
