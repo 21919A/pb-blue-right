@@ -6,7 +6,6 @@ from push_back.events import *
 # Open log based on config
 config_open_log()
 
-
 def driver_function():
     """Function for the driver part of a competition match"""
 
@@ -23,17 +22,25 @@ def autonomous_function():
 
     log(("Competition", "competition"), "autonomous_begin")
 
-    robot_position.reset(Position(1200, 1200))
-    reset_heading_to_aim(Position(1440, 1200), FORWARD)
-    # reset_robot_position_and_heading_to_gps()
+    calibrate_and_wait()
 
-    # robot should be 77.5 cm from both sides
+    robot_position.reset(Position(1200, 1200))
+    reset_heading_to_aim(Position(1400, 1200), FORWARD)
 
     # matchload.set(True)
     # flap.set(True)
 
     # conveyor.spin(FORWARD, FORWARD, FORWARD)
-    # trigger_mover.move(Position(1440, 1200), FORWARD)
+
+    # trigger_mover.move(Position(1400, 1200), FORWARD)
+
+    # trigger_driver.drive(200)
+
+    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+
+    # wait(2000, MSEC)
+
+    # trigger_mover.move(Position(1200, 1200), REVERSE)
 
     # wait(6000, MSEC)
     # conveyor.spin(STOP, STOP, STOP)

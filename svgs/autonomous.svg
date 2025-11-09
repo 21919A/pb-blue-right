@@ -71,23 +71,29 @@
 <line x1="600" y1="-1800" x2="600" y2="1800" stroke="#444444" stroke-width="3"/>
 <line x1="1200" y1="-1800" x2="1200" y2="1800" stroke="#444444" stroke-width="3"/>
 <g transform="translate(1200.0 1200.0)  rotate(-90)">
-<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<line x1="-75" y1="0" x2="75" y2="0" stroke="#7777cc" stroke-width="25"/>
-<line x1="0" y1="-410" x2="0" y2="410" stroke="#5555ff" stroke-width="25"/>
-<polyline points="-60,306 0,410 60,306" fill="none" stroke="#0000ff" stroke-width="25"/>
-<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#0000ff" stroke-width="25"/>
+<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#77cc77" stroke-width="25"/>
+<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#77cc77" stroke-width="25"/>
+<line x1="-75" y1="0" x2="75" y2="0" stroke="#77cc77" stroke-width="25"/>
+<line x1="0" y1="-410" x2="0" y2="410" stroke="#77cc77" stroke-width="25"/>
+<polyline points="-60,306 0,410 60,306" fill="none" stroke="#77cc77" stroke-width="25"/>
+<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#77cc77" stroke-width="25"/>
 </g>
-<g transform="translate(1200.0 1200.0)  rotate(-90)">
-<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#7777cc" stroke-width="25"/>
-<line x1="-75" y1="0" x2="75" y2="0" stroke="#7777cc" stroke-width="25"/>
-<line x1="0" y1="-410" x2="0" y2="410" stroke="#5555ff" stroke-width="25"/>
-<polyline points="-60,306 0,410 60,306" fill="none" stroke="#0000ff" stroke-width="25"/>
-<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#0000ff" stroke-width="25"/>
+<g transform="translate(1200.0 1200.0)  rotate(-180)">
+<rect x="-195" y="-190" width="120" height="410" fill="none" stroke="#cc7777" stroke-width="25"/>
+<rect x="75" y="-190" width="120" height="410" fill="none" stroke="#cc7777" stroke-width="25"/>
+<line x1="-75" y1="0" x2="75" y2="0" stroke="#cc7777" stroke-width="25"/>
+<line x1="0" y1="-410" x2="0" y2="410" stroke="#cc7777" stroke-width="25"/>
+<polyline points="-60,306 0,410 60,306" fill="none" stroke="#cc7777" stroke-width="25"/>
+<polyline points="-60,-514 0,-410 60,-514" fill="none" stroke="#cc7777" stroke-width="25"/>
 </g>
 <line x1="1162.0" y1="1200.0" x2="1237.0" y2="1200.0" stroke="#000000" stroke-width="25" stroke-dasharray="25,25">
 <animateTransform attributeName="transform" type="rotate" to="360 1200.0 1200.0" dur="2000ms" repeatCount="indefinite" from="0 1200.0 1200.0"/>
 </line>
+<line x1="-2040" y1="1890" x2="-1920" y2="2010" stroke="#000000" stroke-width="12"/>
+<line x1="-2040" y1="2010" x2="-1920" y2="1890" stroke="#000000" stroke-width="12"/>
+<line x1="-1860" y1="1890" x2="-1740" y2="2010" stroke="#000000" stroke-width="12"/>
+<line x1="-1860" y1="2010" x2="-1740" y2="1890" stroke="#000000" stroke-width="12"/>
+<line x1="-1680" y1="1890" x2="-1560" y2="2010" stroke="#000000" stroke-width="12"/>
+<line x1="-1680" y1="2010" x2="-1560" y2="1890" stroke="#000000" stroke-width="12"/>
 </g>
 </svg>
