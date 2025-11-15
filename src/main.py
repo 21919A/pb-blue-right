@@ -25,32 +25,64 @@ def autonomous_function():
 
     log(("Competition", "competition"), "autonomous_begin")
 
-    robot_position.reset(Position(1200, 1185))
-    reset_heading_to_aim(Position(1480, 1185), FORWARD)
+    """
+    # robot_position.reset(Position(1200, 1185))
+    # reset_heading_to_aim(Position(1480, 1185), FORWARD)
+    # matchload.set(True)
 
+    # wait(1000, MSEC)
 
-    matchload.set(True)
+    # flap.set(True)
 
-    wait(1000, MSEC)
+    # wait(1000, MSEC)
 
-    flap.set(True)
+    # conveyor.spin(REVERSE, FORWARD, FORWARD)
 
-    wait(1000, MSEC)
+    # # trigger_mover.move(Position(1480, 1185), FORWARD)
+    # trigger_driver.drive(260)
+    # # trigger_driver.drive(-50)
+    # # wait(100, MSEC)
+    # # trigger_driver.drive(70)
+    # matchload.set(False)
+    # wait(220, MSEC)
+    # matchload.set(True)
+
+    # wait(200, MSEC)
+    # # conveyor.spin(STOP, STOP, STOP)
+    # # flap.set(False)
+
+    # trigger_mover.move(Position(1200, 1200), REVERSE)
+    # conveyor.spin(REVERSE, FORWARD, FORWARD)
+    # matchload.set(False)
+    # trigger_turner.turn(177, FRAME_HEADING_RELATIVE)
+    # conveyor.spin(STOP, STOP, STOP)
+    # flap.set(False)
+
+    # trigger_mover.move(Position(900, 1200), FORWARD)
+    # # trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
+    # conveyor.spin(REVERSE, FORWARD, FORWARD)
+    """
+
+    robot_position.reset(Position(1200, 430))
+    reset_heading_to_aim(Position(1200, 1185), FORWARD)
 
     conveyor.spin(REVERSE, FORWARD, FORWARD)
+    trigger_mover.move(Position(1200, 1185), FORWARD)
+    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+    trigger_turner.turn(90, FRAME_ABSOLUTE) # do another check
+
+    matchload.set(True)
+    wait(500, MSEC)
+    flap.set(True)
+    wait(1000, MSEC)
 
     # trigger_mover.move(Position(1480, 1185), FORWARD)
     trigger_driver.drive(260)
-    # trigger_driver.drive(-50)
-    # wait(100, MSEC)
-    # trigger_driver.drive(70)
     matchload.set(False)
     wait(220, MSEC)
     matchload.set(True)
 
     wait(200, MSEC)
-    # conveyor.spin(STOP, STOP, STOP)
-    # flap.set(False)
 
     trigger_mover.move(Position(1200, 1200), REVERSE)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
@@ -62,7 +94,6 @@ def autonomous_function():
     trigger_mover.move(Position(900, 1200), FORWARD)
     # trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-
 
 
 
