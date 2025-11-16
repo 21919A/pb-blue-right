@@ -72,7 +72,7 @@ def autonomous_function():
     #  trigger_turner.turn(111.801, FRAME_HEADING_RELATIVE)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
     trigger_mover.move(Position(1200, 1185), FORWARD)
-    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+    # trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
     trigger_turner.turn(90, FRAME_ABSOLUTE) # do another check
 
     matchload.set(True)
