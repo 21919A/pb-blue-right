@@ -63,6 +63,7 @@ def autonomous_function():
     # conveyor.spin(REVERSE, FORWARD, FORWARD)
     """
 
+    """
     robot_position.reset(Position(1600, 450)) # 1600 -> 1575 according to path.jerry.io
     reset_heading_to_aim(Position(900, 450), FORWARD)
     flap.set(True)
@@ -96,7 +97,7 @@ def autonomous_function():
     trigger_mover.move(Position(900, 1200), FORWARD)
     # trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-
+    """
 
 
 
