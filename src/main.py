@@ -111,7 +111,9 @@ def autonomous_function():
     trigger_turner.turn(90, FRAME_ABSOLUTE)
     matchload.set(True)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-    slow_trigger_driver.drive(243)
+    # slow_trigger_driver.drive(243)
+
+    trigger_driver.drive_for_time(1000, 50, True, 243)
 
     wait(600, MSEC)
 
@@ -120,10 +122,10 @@ def autonomous_function():
     matchload.set(False)
     conveyor.spin(STOP, STOP, STOP)
     trigger_turner.turn(180, FRAME_HEADING_RELATIVE)
-    trigger_mover.move(Position(900, 1200))
+    trigger_mover.move(Position(870, 1200))
     trigger_turner.turn(270, FRAME_ABSOLUTE)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-
+    
     log(("Competition", "competition"), "autonomous_end")
 
 
