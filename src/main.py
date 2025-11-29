@@ -125,7 +125,7 @@ def autonomous_function():
     trigger_mover.move(Position(870, 1200))
     trigger_turner.turn(270, FRAME_ABSOLUTE)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-    
+
     log(("Competition", "competition"), "autonomous_end")
 
 
