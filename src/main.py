@@ -98,22 +98,30 @@ def autonomous_function():
     # trigger_turner.turn(270, FRAME_ABSOLUTE) # do another check
     conveyor.spin(REVERSE, FORWARD, FORWARD)
     """
+    robot_position.reset(Position(1250, 380))
+    reset_heading_to_aim(Position(1250, 1200), FORWARD)
 
-    robot_position.reset(Position(1600, 450))
-    reset_heading_to_aim(Position(900, 450), FORWARD)
+    # robot_position.reset(Position(1600, 450))
+    # reset_heading_to_aim(Position(900, 450), FORWARD)
     flap.set(True)
-
-    trigger_mover.move(Position(1200, 450), FORWARD)
-    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
-    trigger_mover.move(Position(1200, 1200), FORWARD)
-
-    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
-    trigger_turner.turn(90, FRAME_ABSOLUTE)
     matchload.set(True)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
-    # slow_trigger_driver.drive(243)
 
-    trigger_driver.drive_for_time(1000, 30, True, 243)
+    # trigger_mover.move(Position(1200, 450), FORWARD)
+    # trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+    # trigger_mover.move(Position(1200, 1200), FORWARD)
+
+    # trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+    # trigger_turner.turn(90, FRAME_ABSOLUTE)
+    # conveyor.spin(REVERSE, FORWARD, FORWARD)
+    # # slow_trigger_driver.drive(243)
+
+    trigger_mover.move(Position(1250, 1200), FORWARD)
+    # trigger_turner.turn(0, FRAME_ABSOLUTE)
+    trigger_turner.turn(90, FRAME_HEADING_RELATIVE)
+    trigger_turner.turn(90, FRAME_ABSOLUTE)
+
+    trigger_driver.drive_for_time(1000, 20, True, 243)
     trigger_driver.drive(-35)
     reset_robot_position_and_heading_to_gps()
 
@@ -126,7 +134,7 @@ def autonomous_function():
     conveyor.spin(STOP, STOP, STOP)
     trigger_turner.turn(180, FRAME_HEADING_RELATIVE)
     trigger_turner.turn(270, FRAME_ABSOLUTE)
-    trigger_mover.move(Position(835, 1200))
+    trigger_mover.move(Position(900, 1200))
     trigger_turner.turn(270, FRAME_ABSOLUTE)
     trigger_turner.turn(270, FRAME_ABSOLUTE)
     conveyor.spin(REVERSE, FORWARD, FORWARD)
