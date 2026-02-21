@@ -13,6 +13,7 @@ def driver_function():
     """Function for the driver part of a competition match"""
 
     log(("Competition", "competition"), "driver_begin")
+    set_split_arcade_control_sensitivity(0.3)
 
     # Add driver logic here
     # Note that event handling is initialized outside of this function by init_event_handling()
